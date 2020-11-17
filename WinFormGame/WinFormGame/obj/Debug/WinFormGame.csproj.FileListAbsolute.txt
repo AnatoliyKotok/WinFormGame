@@ -1,0 +1,10 @@
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\bin\Debug\WinFormGame.exe.config
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\bin\Debug\WinFormGame.exe
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\bin\Debug\WinFormGame.pdb
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\obj\Debug\WinFormGame.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\obj\Debug\WinFormGame.Form1.resources
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\obj\Debug\WinFormGame.Properties.Resources.resources
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\obj\Debug\WinFormGame.csproj.GenerateResource.cache
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\obj\Debug\WinFormGame.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\obj\Debug\WinFormGame.exe
+C:\Users\Anatoliy\source\repos\WinFormGame\WinFormGame\obj\Debug\WinFormGame.pdb
